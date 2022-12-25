@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ürünler>
+  <saat>
+    <ID>1</ID>
+    <Adı>Altın saat</Adı>
+    <Fiyat>600</Fiyat>
+  </saat>
+  <saat>
+    <ID>2</ID>
+    <Adı>Gümüş saat</Adı>
+    <Fiyat>200</Fiyat>
+  </saat>
+  <saat>
+    <ID>3</ID>
+    <Adı>Akıllı saat</Adı>
+    <Fiyat>429</Fiyat>
+  </saat>
+  <saat>
+    <ID>4</ID>
+    <Adı>Antika Saat</Adı>
+    <Fiyat>5499</Fiyat>
+  </saat>
+</ürünler>

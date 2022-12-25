@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kullanıcı>
+  <users>
+    <ID>1</ID>
+    <Adı>Ömer Faruk</Adı>
+    <Soyadı>Tamgaç</Soyadı>
+    <Username>1</Username>
+    <Şifre>2</Şifre>
+  </users>
+  <users>
+    <ID>2</ID>
+    <Adı>Hasan</Adı>
+    <Soyadı>Yakın</Soyadı>
+    <Username>hasan</Username>
+    <Şifre>asd</Şifre>
+  </users>
+  <users>
+    <ID>3</ID>
+    <Adı>Selin</Adı>
+    <Soyadı>Mutlu</Soyadı>
+    <Username>sm</Username>
+    <Şifre>happy</Şifre>
+  </users>
+</kullanıcı>
